@@ -1,5 +1,5 @@
 # sales-analytics-report
-This report contains sales analysis for 3 years from 2019 to 2021 of a company named AtliQ hardwares. AtliQ hardware is a manufacturer of computer parts like pc, mouse, monitor, keyboards etc. It has both brick & mortar and e-commerce platform as its customers. The company also has its own store AtliQ e store and AtliQ exclusive for selling its products.
+This report contains sales analysis for 3 years of a company named AtliQ hardwares. AtliQ hardware is a manufacturer of computer parts like pc, mouse, monitor, keyboards etc. It has both brick & mortar and e-commerce platform as its customers. The company also has its own store AtliQ e store and AtliQ exclusive for selling its products.
 
 The project analyzes the sales data of 3 years from 2019 to 2021 of its customers across the world to find out its strong and weak market. Also the report help analyse the market performance of the customers and whether they met their target or not? Growth in sales in year 2021 from 2020 is also reported. All the insights given in the reports can help decide which country is the best market which is the worst, where some steps can be taken to improve its sales and how the company is performing?
 
